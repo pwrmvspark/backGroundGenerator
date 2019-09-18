@@ -1,5 +1,6 @@
 # Background Generator
 
-## Click color palettes to customize your background.
+This repo was used to display a customizable gradient for backgrounds on web apps. 
 
-![Display](dispay.png)
+![screenshot](dispay.png)
+![test(https://octodex.github.com/images/yaktocat.png)
