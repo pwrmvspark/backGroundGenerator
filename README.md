@@ -1,1 +1,1 @@
-![Display](dispay.PNG)
+![Display](dispay.png)
